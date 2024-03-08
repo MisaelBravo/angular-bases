@@ -1,0 +1,12 @@
+h1{
+  font-size: large;
+  color:blue;
+}
+td{
+  font-size: 3em;
+  color: burlywood;
+}
+dd{
+  font-size: 2rem;
+  font-weight: bold;
+}
